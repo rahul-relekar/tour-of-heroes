@@ -1,7 +1,8 @@
 /* AppComponent's private CSS styles */
 h1 {
-    font-size: 1.2em;
+    font-size: 3.0em;
     margin-bottom: 0;
+    font-family: AILERONS;
   }
   h2 {
     font-size: 2em;
@@ -26,3 +27,4 @@ h1 {
   nav a.active {
     color: #039be5;
   }
+  
